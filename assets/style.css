@@ -1,0 +1,32 @@
+button {
+    background-color: #4aaaaa; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+body { 
+    background-color:#AAB7B8;
+}
+
+#add
+     { float:right;
+
+}
+#add-animals{
+    float:right;
+
+}
+#animals-input
+{
+    float:right;
+}
+@media screen and (min-width: 640px) {
+    #animals-input {margin-left: 216px;}
+  
+    }
